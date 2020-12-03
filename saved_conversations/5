@@ -1,0 +1,21 @@
+bot : Hi There! I am a medical chatbot. You can begin conversation by typing in a message and pressing enter.
+user : Hello
+bot : - Hi. How are you feeling today?
+user : I feel sick
+bot : - okay. can you tell me what's wrong? what are your symptoms?
+user : there comes cough
+bot : - You should take a spoon full of benadryl after your meal.
+user : thank you so much
+bot : - I am offline. at Dwarkadas J. Sanghvi College of Engineering as of now.
+user : Hi
+bot : - Hello. How are you feeling today?
+user : I am feeling exhausted
+bot : - good to know. how may i assist you then?
+user : I want to get my symptoms checked
+bot : - you shall be called once the doctor is available. Do you want to book an appointment?
+user : yes I do
+bot : - ok, is there a swelling or a physical deformity or bleeding at the aching region.
+user : yes there is a swelling
+bot : - okay, it is a common symptom of fracture, should I book an an appointment for you.
+user : yes please
+bot : - okay, it is a common symptom of fracture, should I book an an appointment for you.
