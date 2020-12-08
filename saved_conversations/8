@@ -1,0 +1,13 @@
+bot : Hi There! I am Healthbot, your medical assistant. You can begin conversation by typing in a message and pressing enter.
+user : My name is Arushi
+bot : - Hello! your name has been stored. What is your age?
+user : I am 20 years old
+bot : - okay. your age has been stored. Which city do you live in?
+user : Delhi
+bot : - Hello. How are you feeling today?
+user : I am having fever today
+bot : - good to know. how may i assist you then?
+user : what are the medicines that i can take
+bot : - I am interested in helping you medically!
+user : My body temperature has raised.
+bot : - This is a symptom of fever, you should take a tablet of crocin after you have your meal.
