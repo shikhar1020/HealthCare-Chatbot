@@ -16,7 +16,7 @@ SQLAlchemy==1.1.11
 This source is free to use, but ChatterBot does have a license which still applies and can be found on the [LICENSE](https://github.com/gunthercox/ChatterBot/blob/master/LICENSE) page.
 
 ## Team DocBot Members
-Akanksha Bansal
-Arushi Sehgal
-Shikhar srivastava
-Avni tyagi
+1. Akanksha Bansal
+2. Arushi Sehgal
+3. Shikhar Srivastava
+4. Avni tyagi
