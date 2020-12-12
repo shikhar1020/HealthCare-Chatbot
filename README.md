@@ -18,5 +18,5 @@ This source is free to use, but ChatterBot does have a license which still appli
 ## Team DocBot Members
 1. Akanksha Bansal
 2. Arushi Sehgal
-3. Shikhar Srivastava
-4. Avni tyagi
+3. Avni tyagi
+4. Shikhar Srivastava
