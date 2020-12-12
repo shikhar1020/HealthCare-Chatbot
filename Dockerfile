@@ -1,9 +1,10 @@
-
-FROM python:alpine3.6
-LABEL image for healthCare Chatbot
+FROM python:3.6-slim
+LABEL Image for healthCare Chatbot
 WORKDIR /HealthCare Chatbot 
 COPY . .
+RUN pip install --upgrade pip
 RUN pip install -r requirements.txt 
 EXPOSE 5001 
 ENTRYPOINT [ "python" ] 
-CMD [ "run.py" , "train.py" ]
+CMD ["train.py" , "run.py"]
+
