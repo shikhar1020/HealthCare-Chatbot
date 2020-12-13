@@ -1,8 +1,8 @@
 # flask-chatbot
 Built on python 3.6
-Flask==0.11
-chatterbot==0.8.4
-SQLAlchemy==1.1.11
+1. Flask==0.11
+2. chatterbot==0.8.4
+3. SQLAlchemy==1.1.11
 
 #### A web implementation of [ChatterBot](https://github.com/gunthercox/ChatterBot) using Flask.
 
@@ -18,5 +18,5 @@ This source is free to use, but ChatterBot does have a license which still appli
 ## Team DocBot Members
 1. Akanksha Bansal
 2. Arushi Sehgal
-3. Shikhar Srivastava
-4. Avni tyagi
+3. Avni tyagi
+4. Shikhar Srivastava
