@@ -3,7 +3,7 @@ from chatterbot import ChatBot
 from chatterbot.trainers import ChatterBotCorpusTrainer
 import os
 
-from chatterbot import ChatBot
+#from chatterbot import ChatBot
 from chatterbot.trainers import ListTrainer
 
 filenumber=int(os.listdir('saved_conversations')[-1])
