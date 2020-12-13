@@ -9,7 +9,7 @@ from chatterbot.trainers import ListTrainer
 filenumber=int(os.listdir('saved_conversations')[-1])
 filenumber=filenumber+1
 file= open('saved_conversations/'+str(filenumber),"w+")
-file.write('bot : Hi There! I am Healthbot, your medical assistant. You can begin conversation by typing in a message and pressing enter.\n')
+file.write('bot : Hi There! I am Healthbot, your medical assistant. You can begin conversation by typing in a your query and pressing enter.\n')
 file.close()
 
 app = Flask(__name__)
